@@ -1,4 +1,4 @@
-# SAHAYA — Emergency Visibility & Response Platform
+# SAHAAY — Emergency Visibility & Response Platform
 
 A real-time emergency reporting and response management platform designed for stressed users, low time, and high urgency situations.
 
