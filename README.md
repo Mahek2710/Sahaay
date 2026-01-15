@@ -2,6 +2,8 @@
 
 A real-time emergency reporting and response management platform designed for stressed users, low time, and high urgency situations.
 
+Project Video Link : https://drive.google.com/file/d/1FK0e9e7iw5vrcSuPpWIrIN0KakRBjtaD/view?usp=drivesdk
+
 ## Tech Stack
 
 - **Frontend:** React (Vite) + shadcn/ui + Mapbox GL JS
